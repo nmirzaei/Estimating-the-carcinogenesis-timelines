@@ -1,3 +1,4 @@
+<a href="https://doi.org/10.5281/zenodo.19011156"><img src="https://zenodo.org/badge/1173145387.svg" alt="DOI"></a>
 # Estimating the carcinogenesis timelines
 This repository contains MATLAB codes required to produce the results in "Estimating the carcinogenesis timelines in early-onset versus late-onset cancers and changes across birth cohorts." A preprint of this work is available on medRxiv:
 
