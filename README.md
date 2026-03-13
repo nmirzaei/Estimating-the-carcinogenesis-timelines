@@ -1,5 +1,6 @@
 # Estimating the carcinogenesis timelines
-This repository contains MATLAB codes required to produce the results in "Estimating the carcinogenesis timelines in early-onset versus late-onset cancers and changes across birth cohorts"
+This repository contains MATLAB codes required to produce the results in "Estimating the carcinogenesis timelines in early-onset versus late-onset cancers and changes across birth cohorts." A preprint of this work is available on medRxiv:
+Mohammad Mirzaei, Navid, and Wan Yang. "Estimating the carcinogenesis timelines in early-onset versus late-onset cancers and changes across birth cohorts." medRxiv (2025).
 
 # Using the codes
 To produce the plots for each cancer type and each framework, use the Matlab files Plotting_{cancer type}_newdata.m
